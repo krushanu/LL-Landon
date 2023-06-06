@@ -11,11 +11,11 @@ const App = () => {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://krushanu.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React in less than a day
+          Krushanu Mohapatra
         </a>
       </header>
     </div>
