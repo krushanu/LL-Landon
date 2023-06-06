@@ -1,4 +1,4 @@
-import imageURLData from "./data/galary_images.json";
+import imageURLData from "./data/gallery_images.json";
 const Welcome = () => {
   return (
     <div className="scene" id="welcome">
